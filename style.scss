@@ -1,0 +1,17 @@
+$a: rgb(238, 211, 136);
+$b: rgb(55, 30, 163);
+
+
+.form{
+    background-color: $a;
+    text-align: left;
+    padding: 50px;
+    .form-label{
+        font-size: 25px;
+        font-style: italic;
+        color: $b;
+    }
+}
+
+
+

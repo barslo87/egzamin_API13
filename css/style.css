@@ -1,0 +1,10 @@
+.form {
+  background-color: rgb(238, 211, 136);
+  text-align: left;
+  padding: 50px;
+}
+.form .form-label {
+  font-size: 25px;
+  font-style: italic;
+  color: rgb(55, 30, 163);
+}/*# sourceMappingURL=style.css.map */
